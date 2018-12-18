@@ -1,1 +1,10 @@
-['saved','pending','active','paused','suspended','expired','declined','terminated']
+[
+  "saved",
+  "pending",
+  "active",
+  "paused",
+  "suspended",
+  "expired",
+  "declined",
+  "terminated"
+]
